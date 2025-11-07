@@ -2,7 +2,7 @@
 
 ## A Full-Stack Web Developer
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=zakariafl27&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **HR Management System at Cohorlinktis**
 - 🤖 I build **AI Agents and AI Automation Solutions**
