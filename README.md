@@ -79,25 +79,18 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" alt="openai" width="40" height="40"/>
-  </a>
+  
 </p>
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="yourusername" />
-</p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariafl27&show_icons=true&locale=en&theme=radical" alt="zakariafl27" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariafl27&theme=radical" alt="zakariafl27" />
 </p>
 
 ## 💼 Featured Projects
