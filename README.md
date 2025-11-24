@@ -127,7 +127,6 @@
 
 ## ✍️ Random Dev Quote
 
-![GitHub Stars](https://img.shields.io/github/stars/zakariafl27?style=social)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
