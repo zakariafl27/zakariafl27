@@ -1,25 +1,22 @@
-# Hi 👋, I'm Zakaria Flafi
+# ZAKARIA FLAFI
 
-## A Full-Stack Web Developer
+## Full-Stack Web Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=zakariafl27&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on **HR Management System at Cohorlinktis**
-- 🤖 I build **AI Agents and AI Automation Solutions**
-- 🌱 I'm currently learning **Advanced React Patterns, PostgreSQL Optimization, and AI Integration**
-- 💬 Ask me about **React, Laravel, Node.js, PostgreSQL, AI Agents, AI Automation**
-- 📫 How to reach me **flafizakaria27@gmail.com**
-- 📍 Location: **Safi, Morocco**
-- ⚡ Fun fact **I think debugging is like being a detective in a crime movie where you are also the murderer**
+Full Stack Web Developer from Safi, Morocco. I design and develop high-performance web applications with React, Laravel, and PostgreSQL.
 
-## Connect with me:
+---
 
-<p align="left">
-<a href="https://linkedin.com/in/zakaria-flafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-flafi" height="30" width="40" /></a>
-<a href="mailto:flafizakaria27@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
-</p>
+## CURRENT FOCUS
 
-## Languages and Tools:
+- Working on HR Management Systems
+- Building modern web applications with React and Laravel
+- Exploring advanced PostgreSQL optimization techniques
+
+---
+
+## TECH STACK
 
 <p align="left">
   <!-- Frontend -->
@@ -74,61 +71,61 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  
-  <!-- AI & Automation -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  
 </p>
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariafl27&show_icons=true&locale=en&theme=radical" alt="zakariafl27" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariafl27&theme=radical" alt="zakariafl27" />
-</p>
-
-## 💼 Featured Projects
-
-### 🤖 AI Agents & Automation
-- **Intelligent automation solutions** using AI agents
-- **Custom AI integrations** for business process optimization
-- **Automated workflows** leveraging modern AI technologies
-
-### 🏫 School Management System
-- **Tech Stack:** React.js, Laravel, MySQL
-- **Features:** Student management, teacher management, class scheduling, subject management
-- **Highlights:** Modern responsive UI, secure REST API, optimized relational database
-
-### 👨‍💼 HR Management System
-- **Tech Stack:** React.js, Laravel, PostgreSQL
-- **Features:** Employee management, attendance tracking, performance evaluation
-- **Highlights:** Full project lifecycle involvement from analysis to deployment
-
-### 🍳 CookingStore
-- **Tech Stack:** React.js
-- **Features:** Recipe browsing, ingredient lists, cooking steps and tips
-- **Highlights:** Interactive platform, reusable components, efficient state management
-
-### ✅ Task Management Application
-- **Tech Stack:** React.js, Laravel, SQL
-- **Features:** Task tracking, project management, user management
-- **Highlights:** Secure API, comprehensive development cycle from analysis to deployment
-
-## 🎓 Certifications
-
-- 📜 **SQL Intermediate** - SoloLearn
-- 📜 **Web Development** - SoloLearn
-
-## ✍️ Random Dev Quote
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
+## GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariafl27&show_icons=true&locale=en&theme=tokyonight" alt="zakariafl27" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariafl27&theme=tokyonight" alt="zakariafl27" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariafl27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zakariafl27" />
+</p>
+
+---
+
+## CODING PHILOSOPHY
+
+> "Debugging is like being a detective in a crime movie where you are also the murderer."
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Currently coding in the world of web development  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Always learning, always improving  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png" alt="Coffee" width="25" height="25" /> Fueled by coffee and clean code
+
+---
+
+## CONNECT WITH ME
+
+<p align="left">
+<a href="https://www.linkedin.com/in/zakaria-flafi-410706333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-flafi" height="30" width="40" /></a>
+<a href="mailto:flafizakaria27@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
+</p>
+
+**Location:** Safi, Morocco  
+**Email:** flafizakaria27@gmail.com
+
+---
+
+<div align="center">
+  
+### "Code is like humor. When you have to explain it, it's bad."
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
